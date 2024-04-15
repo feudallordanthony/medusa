@@ -1,0 +1,21 @@
+[submodule "modules/ury"]
+	path = modules/ury
+	url = https://github.com/ury-erp/ury.git
+[submodule "modules/mosaic"]
+	path = modules/mosaic
+	url = https://github.com/ury-erp/mosaic.git
+[submodule "modules/pulse"]
+	path = modules/pulse
+	url = https://github.com/ury-erp/pulse.git
+[submodule "modules/erpnext-restaurant"]
+	path = modules/erpnext-restaurant
+	url = https://github.com/alphabit-technology/erpnext-restaurant.git
+[submodule "modules/POS-Awesome"]
+	path = modules/POS-Awesome
+	url = https://github.com/yrestom/POS-Awesome.git
+[submodule "modules/TastyIgniter"]
+	path = modules/TastyIgniter
+	url = https://github.com/tastyigniter/TastyIgniter.git
+[submodule "modules/erpnext"]
+	path = modules/erpnext
+	url = https://github.com/frappe/erpnext.git
